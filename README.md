@@ -3,7 +3,7 @@
 
 - 🔭 I’m planning to work as full-stack develovper
 
- 🌱 I’m currently learning HTML, CSS and JS 
+- 🌱 I’m currently learning HTML, CSS and JS 
  
 <div>
    <a href="https://github.com/luisPSilva1">
